@@ -1,0 +1,16 @@
+# executables
+*.exe
+*.out
+*.app
+
+# fichiers objets
+*.o
+*.obj
+
+# dossiers de build
+build/
+bin/
+
+# fichiers temporaires
+*.log
+*.tmp
